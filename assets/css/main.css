@@ -12566,7 +12566,7 @@ img {
 .progress-wrap::after {
   position: absolute;
   content: "";
-  background: url("/assets/imgs/icons/arrow-up.svg") no-repeat center center;
+  background: url("./assets/imgs/icons/arrow-up.svg") no-repeat center center;
   background-size: 24px 24px;
   text-align: center;
   line-height: 56px;
@@ -12590,7 +12590,7 @@ img {
 .progress-wrap::before {
   position: absolute;
   content: "";
-  background: url("/assets/imgs/icons/arrow-up.svg") no-repeat center center;
+  background: url("./assets/imgs/icons/arrow-up.svg") no-repeat center center;
   background-size: 24px 24px; 
   text-align: center;
   line-height: 56px;
